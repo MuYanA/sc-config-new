@@ -53,4 +53,4 @@ ribbon:
 #为了测试，这里自定义一个文件上传路径，供网关微服务获取
 upload:
   pic:
-    path: C:\uploadfiles
+    path: D:\uploadfiles
